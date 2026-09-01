@@ -43,14 +43,6 @@ To keep research moving forward, I've adapted my entire development setup to be 
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-![Kazuya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazuyamagiwa&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuyamagiwa&layout=compact&theme=radial)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kazuyamagiwa&theme=radial)
-
----
-
 📫 **Connect & Collaborate:** Always open to discussions on complex systems, cellular automata, materials informatics, or Python internals!
 
 
