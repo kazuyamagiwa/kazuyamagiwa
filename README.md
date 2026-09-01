@@ -1,4 +1,4 @@
-# Hi there, I'm Kazuya Magiwa (@kazuyamagiwa) 👋
+# Hi there, I'm Kazu Yamagiwa (@kazuyamagiwa) 👋
 
 ### 🔬 AI/ML Researcher & Computational Explorer
 
