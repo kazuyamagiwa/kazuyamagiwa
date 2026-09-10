@@ -1,8 +1,8 @@
 # Hi there, I'm Kazu Yamagiwa (@kazuyamagiwa) 👋
 
-### 🔬 AI/ML Researcher & Computational Explorer
+### 🔬 Materials Researcher — Experimental & Analytical / Machine Learning
 
-I am fascinated by fundamental principles of computation, complex systems, and the nature of intelligence. My research interests range from practical applications in **materials informatics** to theoretical explorations of **cellular automata**, **graph-based network growth**, and **brain-inspired computational models**.
+I work as a **materials researcher** spanning **experimental** and **analytical / machine learning** approaches. Beyond the lab and data side of materials science, I am fascinated by fundamental principles of computation, complex systems, and the nature of intelligence — from **materials informatics** to theoretical explorations of **cellular automata**, **graph-based network growth**, and **brain-inspired computational models**.
 
 ---
 
